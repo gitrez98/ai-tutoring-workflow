@@ -1,0 +1,13 @@
+.DS_Store
+config.private.md
+students/
+recordings/
+private/
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.mov
+*.pdf
+*.docx
+*.xlsx

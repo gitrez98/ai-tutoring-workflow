@@ -1,0 +1,3 @@
+# Term plan prompt
+
+> Follow `docs/workflow.md` and my private setup. For [student name], read the completed trial summary and corrections. Copy my syllabus template into their progress folder. Draft at least the next ten sessions with goals, tasks, useful resources and agreed homework. Create matching folders and link them from the syllabus. Leave dates, times, lesson-plan links and assessment fields unchanged. Check source material and preserve template formulas and charts. Give me the syllabus for review and wait for my explicit approval before creating teaching guides. Do not invent progress or unavailable book references.

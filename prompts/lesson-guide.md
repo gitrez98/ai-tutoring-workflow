@@ -1,0 +1,3 @@
+# Lesson guide prompt
+
+> Follow `docs/workflow.md`, my private setup and the approved syllabus for [student name, session number]. Use my consistent teaching-guide template to produce a practical, step-by-step guide for the agreed lesson length. Include what to say, exact prompts, examples, checks, feedback, timing and adjustments. Check actual materials and make sure all activities and media fit the objective. Include verified, level-appropriate Grammar in Use homework for a grammar lesson if homework is agreed. Put the guide and necessary permitted resources in the session folder and link the guide from the syllabus. Report anything unverified as pending. Use the tutor's latest assessment to adjust the next lesson; never invent student performance.

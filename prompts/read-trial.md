@@ -1,0 +1,3 @@
+# Read trial prompt
+
+> Follow `docs/workflow.md` and my private setup. Read [student name]'s student info and completed trial notes. Analyze a recording only if I attach it with permission. Give a short 3C script I can say directly to the student: provisional level and comparison, one or two evidenced strengths, exact verified starting material or conversation task, one modeled practice with a check question, and a concrete lesson-10 goal. Keep uncertainty and detailed analysis separate. Wait for my final notes, then create and verify a trial summary PDF in the student's trial folder. Do not assume that missing information was assessed.
